@@ -19,12 +19,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Buat Scroll */
+::-webkit-scrollbar {
+  width: 20px;
+}
 ::-webkit-scrollbar-track {
   box-shadow: inset 0 0 5px grey; 
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb {
-  background: red; 
+  background: #a8a369; 
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
