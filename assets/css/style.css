@@ -533,6 +533,7 @@ section {
 # Featured Services
 --------------------------------------------------------------*/
 .featured-services .icon-box {
+  item-align: center;
   padding: 30px;
   position: relative;
   overflow: hidden;
