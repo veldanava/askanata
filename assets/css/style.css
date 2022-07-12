@@ -560,7 +560,7 @@ section {
 # Featured Services
 --------------------------------------------------------------*/
 .featured-services{
-item-align: center;
+  item-align: center;
 }
 .featured-services .icon-box {
   padding: 30px;
